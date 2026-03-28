@@ -6,8 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/9b1de958-b8c1-4282-ac73-7eb1e41732fe
-
+View this app at [wordcloudfree](https://wordcloud-pro-160110407791.us-west1.run.app)
 ## Run Locally
 
 **Prerequisites:**  Node.js
