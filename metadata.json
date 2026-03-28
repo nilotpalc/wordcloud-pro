@@ -1,0 +1,5 @@
+{
+  "name": "WordCloud Pro",
+  "description": "Generate beautiful word clouds from text or markdown files with automatic verb and stopword removal.",
+  "requestFramePermissions": []
+}
